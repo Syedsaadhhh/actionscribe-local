@@ -1,0 +1,9 @@
+[project]
+name = "actionscribe-hybrid"
+version = "0.1.0"
+description = "Hybrid local-first transcript to action extraction tool"
+requires-python = ">=3.10"
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
